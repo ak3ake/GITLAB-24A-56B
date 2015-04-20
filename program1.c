@@ -17,6 +17,6 @@ int main()
 		scanf("%c",array[i]);
 
 	printf("Second edit by USER_A\n");		//Second edit USER_A
-
+	printf("Third edit for Error's sake \n");		//Third edit USER_B
 	return 0;
 }
